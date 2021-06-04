@@ -5,8 +5,8 @@ const CONFIG = {
     Chỉ có YÊU em
     Là đúng thoiii`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Anh Yêu Em 😙',
+    desc: 'Em cóa yêu anh hongggggg?? ',
     btnYes: 'Vẫn cứ là yêu anh <33',
     btnNo: 'Khônggggggg',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
